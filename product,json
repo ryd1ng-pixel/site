@@ -1,1 +1,16 @@
-
+[
+    {
+        "id": "godly1",
+        "name": "Godly Knife",
+        "price": 299.99,
+        "quantity": 5,
+        "category": "Ножи"
+    },
+    {
+        "id": "chroma2",
+        "name": "Chroma Gun",
+        "price": 199.99,
+        "quantity": 3,
+        "category": "Пистолеты"
+    }
+]
